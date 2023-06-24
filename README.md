@@ -1,4 +1,4 @@
-# Movie App
+# FlixNest - Movie App
 
 This is a movie app built with React that allows users to search for movies and view details about each movie.
 
@@ -19,7 +19,7 @@ This is a movie app built with React that allows users to search for movies and 
 
 To get a local copy of this project up and running, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/drishyakarki/FlixNest.git`
 2. Navigate to the project directory: `cd movie-app`
 3. Install the dependencies: `npm install`
 4. Set up your API key: Obtain an API key from the OMDB API (http://www.omdbapi.com) and replace `YOUR_API_KEY` with your actual API key in `App.js` file.
